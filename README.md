@@ -1,2 +1,2 @@
-# competitive-programming
-All tutorials and materials for getting started in competitive programming and ACM ICPC
+# Competitive-Programming
+My code submissions to problems on various Competitive Programming platforms and Competitions such as CodeForces,Codechef,Hackerrank,Facebook-Hacker-Cup
